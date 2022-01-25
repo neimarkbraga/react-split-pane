@@ -9,6 +9,9 @@
 
 Split-Pane React component, can be nested or split vertically or horizontally!
 
+⚠ Notice: This a fork of [react-split-pane](https://github.com/tomkp/react-split-pane). The purpose of fork is to support react ^17.0.0    
+There's an existing PR to the main repo to support react ^17.0.0, but it's not pulled yet and it seems it would be never pulled.
+
 ## Installing
 
 ````sh
